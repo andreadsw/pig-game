@@ -1,4 +1,4 @@
-## Java Script Pig Game app
+## Java Script Pig Game
 
 Games rules:
 
@@ -13,6 +13,6 @@ The game has 2 players, playing in rounds
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-## Demo Pig Game app
+## Demo Pig Game
 
-See demo: <a href="#" target="_blank">Pig Game app</a>
+See demo: <a href="https://pig-game-js2.netlify.app/" target="_blank">Pig Game</a>
